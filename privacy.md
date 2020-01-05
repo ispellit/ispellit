@@ -55,19 +55,25 @@ This Privacy Policy may change from time to time. By continuing to use the Servi
 Student Data Privacy Questions
 
 Are our apps intended for K-12 students?
+
 Yes, our apps are intended for users ranging from 2 to 99+years so K-12 students are definitely part of our target market. 
 
 Is there any tracking of student information, if so what does this include?
+
 All tracking is optional.  All of our apps can be used without creating any student accounts.  Some of our apps offer the ability to track user progress but the user account can be anonymous and does not require an email account.  In other words, the student, teacher, and parent are always in control and can decide what if anything gets tracked.
 
 What student data is collected, including metadata, and how is that data used?
+
 Please see the answer above.  Most of our apps collect zero student data.  If you decide to create a student account with an email address, then some of our apps will track user activity within the app so that the student, teacher, or parent can see how the student is doing.  As we said above, students can always create user accounts without any email if they prefer to have everything anonymous.  
 
 Which 3rd party companies do you share data with? Do they adhere to your privacy policy and terms of service?
+
 None.  
 
 Is any student data used for the purpose of advertisement or marketing?
+
 No.
 
 Is student information disclosed or sold and if so to who?
-No.  We have and will never disclose or sell any student information to anyone.
+
+No. We have and will never disclose or sell any student information to anyone.
