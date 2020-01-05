@@ -8,7 +8,8 @@ filename: privacy
 Privacy Policy
 --------------
 
-Summary
+### Summary
+
 The short summary is that we will always respect and honor your privacy, your email, and any other information that you give to us.
 
 
